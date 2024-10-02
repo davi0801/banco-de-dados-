@@ -44,3 +44,12 @@ nav a:hover{
     text-decoration:overline;
     transform: scale(0.90);
 }
+
+footer {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--primary-color)
+    color: var(--bg-color)
+}
